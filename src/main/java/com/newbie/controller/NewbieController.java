@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.newbie.service.NewbieService;
 
+/* さんぷるぷろぐらむ */
 @RestController
 public class NewbieController {
 
